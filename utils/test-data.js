@@ -1,0 +1,5 @@
+module.exports = {
+  standard_user: 'standard_user',
+  locked_out_user: 'locked_out_user',
+  password: 'secret_sauce'
+};
